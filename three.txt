@@ -1,0 +1,2 @@
+git reset --hard (commit restore)
+git reset HEAD~ (undoing your last commit)
