@@ -1,2 +1,5 @@
 git reset --hard (commit restore)
 git reset HEAD~ (undoing your last commit)
+git rm --cached three.txt (removes from staging area but remains in working directory)
+git rm -f (forced removal)
+git rm -r (recursive) <FOLDER> (removes folder and all subcontents)(w/o r removes folder but contents remain)
