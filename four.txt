@@ -1,0 +1,7 @@
+git add * (new and modified) *.txt
+git add . (everything in current dir)
+git add --all
+git add -A
+
+working dir > staging area > local repo
+home > get ready (changing shoes/ modify outfit) > party

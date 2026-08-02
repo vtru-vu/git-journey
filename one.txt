@@ -2,3 +2,4 @@ Git vs GitHub
 coffee vs cafe shop
 
 one - simply saving a file (aka committing)
+1
