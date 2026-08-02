@@ -5,3 +5,6 @@ git add -A
 
 working dir > staging area > local repo
 home > get ready (changing shoes/ modify outfit) > party
+
+got checkout
+git merge main -m "merging main into development branch

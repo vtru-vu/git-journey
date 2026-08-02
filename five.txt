@@ -1,2 +1,3 @@
 git branch
 git branch <branch name>
+simulating merge conflicts
