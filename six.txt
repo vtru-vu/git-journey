@@ -1,0 +1,4 @@
+git diff ID ID (comparing two commits from log)
+push local to remote
+fetch remote to local
+pull fetching plus merging, immediately reflects remote changes (fetch + merge)
