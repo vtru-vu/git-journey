@@ -10,3 +10,6 @@ git stash list
 stash@{0}
 
 git revert (copy paste old commit)
+git rebase main (changes the commit history WIPs to linear)
+
+pull request (PR)(merge branch into another branch)
