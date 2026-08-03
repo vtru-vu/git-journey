@@ -1,3 +1,7 @@
 git branch
 git branch <branch name>
 simulating merge conflicts
+
+rolling to a past commit
+git checkout fd5fd05 (previous version control)
+git checkout main (return to latest from previous version control)
