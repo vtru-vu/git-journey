@@ -1,0 +1,12 @@
+rollback
+git restore --staged filename
+git restore .
+
+git stash (commit changes or stash them before switching branches)
+git stash pop (restores stash new to old like cut)
+git stash apply (restores stash but remains in stash like copy)
+git stash drop
+git stash list
+stash@{0}
+
+git revert (copy paste old commit)
