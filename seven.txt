@@ -10,3 +10,4 @@ git stash list
 stash@{0}
 
 git revert (copy paste old commit)
+git reset (cut and paste old commit)
